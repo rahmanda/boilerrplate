@@ -9,6 +9,8 @@ see [forcats](https://forcats.tidyverse.org).**
 # boilerrplate
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/rahmanda/boilerrplate/workflows/R-CMD-check/badge.svg)](https://github.com/rahmanda/boilerrplate/actions)
 <!-- badges: end -->
 
 Factors are a very useful type of variable in R, but they can also be
